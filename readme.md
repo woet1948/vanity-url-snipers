@@ -1,6 +1,9 @@
 readmede veya descriptionda sallayarak olmuyo siz yaptıysanız elimize gectiyse public etmekte tamami ile bizim elimizde genclerim :)
 
 
+eski bi kod bu arada alin gelistirin yapin biseyler
+
+
 @woet.mjs
 
 
